@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{0134E595-BC07-41CD-B077-DC0F59A9446E}" SchemaVersion="75">
+	<Triggers>
+		<WorkUnit Name="Default Work Unit" ID="{0134E595-BC07-41CD-B077-DC0F59A9446E}" PersistMode="Standalone">
+			<ChildrenList>
+				<Trigger Name="Willie_Mae_Lick_1" ID="{4424065A-2D95-4853-BA23-6ACADDE16491}"/>
+				<Trigger Name="Willie_Mae_Lick_2" ID="{BDB90E26-2EF1-450F-9C0D-D441867C4753}"/>
+				<Trigger Name="Willie_Mae_Lick_3" ID="{67FB1D7D-4391-4228-BB9B-6C745D651BA7}"/>
+				<Trigger Name="Willie_Mae_Lick_4" ID="{DA5FBE59-D662-4FBB-B0D9-18C2A4A6184B}"/>
+				<Trigger Name="Willie_Mae_Fall_Bb" ID="{ED8EA5F4-A6EF-4B31-86F8-696665C05966}"/>
+				<Trigger Name="Willie_Mae_Fall_C" ID="{721E97BC-7AAD-44B0-947F-ABCAF8124924}"/>
+				<Trigger Name="Willie_Mae_Fall_Csharp" ID="{DAD07FF8-DA41-4A77-ACCB-54CFB2C9ECCC}"/>
+				<Trigger Name="Willie_Mae_Fall_D" ID="{F52206FE-7572-4002-965E-F8D2DCB4DBA9}"/>
+			</ChildrenList>
+		</WorkUnit>
+	</Triggers>
+</WwiseDocument>

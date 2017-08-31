@@ -1,0 +1,1306 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}" SchemaVersion="80">
+	<InteractiveMusic>
+		<WorkUnit Name="Default Work Unit" ID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}" PersistMode="Standalone">
+			<ChildrenList>
+				<MusicPlaylistContainer Name="Kid Kwei Main Playlist" ID="{6D2C5DFC-0BE1-4BF7-AA5F-4B5974CD434E}" ShortID="977138119">
+					<PropertyList>
+						<Property Name="Tempo" Type="Real64" Value="230"/>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Ending Head, no tpt (m_ 36-52) 230 bpm#01" ID="{FEDA0F7F-DC33-4470-A868-5F161E7FDEB8}" ShortID="71978531">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="22956.5217391304"/>
+								<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Ending Head, no tpt (m_ 36-52) 230 bpm#01" ID="{2E805B3F-CD98-4FE6-9282-606F39A5C152}" ShortID="870879473">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Ending Head, no tpt (m_ 36-52) 230 bpm#01" ID="{5946502F-74B0-4DB7-A18D-EB996879571D}" ShortID="278351340">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Ending Head, no tpt (m. 36-52) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{BCBFC64D-E2A4-4C86-B546-A20391B615AF}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{BFA789A8-3E71-4183-9300-B7C11C853464}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Ending Head, no tpt (m_ 36-52) 230 bpm#01" ID="{E6F16245-4EBC-4C1C-8303-B1AA00174545}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="19826.0869565217"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutDuration" Type="Real64" Value="2816.94966502116"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Ending Head, no tpt (m_ 36-52) 230 bpm#01" ID="{5946502F-74B0-4DB7-A18D-EB996879571D}"/>
+													<PropertyCurveList>
+														<PropertyCurve PropertyName="Highpass">
+															<Curve Name="" ID="{044BAA5F-B3BE-47B9-A019-070FA1363336}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>19.82609</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+														<PropertyCurve PropertyName="Lowpass">
+															<Curve Name="" ID="{5352B2D6-36E8-447B-BBCC-60938FBE464A}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>19.82609</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+														<PropertyCurve PropertyName="Volume">
+															<Curve Name="" ID="{F4732C30-E4BF-4812-96FD-749645ACA2D3}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>19.82609</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+													</PropertyCurveList>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{0A3AA456-626B-4C5F-866E-51CFF5113627}">
+									<PropertyList>
+										<Property Name="TimeMs" Type="Real64" Value="1043.47826086957"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="Exit Cue" ID="{E7348148-E870-4A83-8DB8-027A5D136003}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="17739.1304347826"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Intro _ Head, no tpt (m_ 1-20) 230 bpm#01" ID="{2F02F861-3B56-4263-969D-ABA48ECBEAC3}" ShortID="256930467">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="25304.3333333333"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Intro _ Head, no tpt (m_ 1-20) 230 bpm#01" ID="{2913293C-4EAF-4275-A653-7A14E2AA4058}" ShortID="174776762">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Intro _ Head, no tpt (m_ 1-20) 230 bpm#01" ID="{DE21F423-AFBA-42E5-84FA-7AB0B8162CFC}" ShortID="640838743">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Intro _ Head, no tpt (m. 1-20) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{349D2493-F393-40E1-9D2C-465B2641DC6E}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{3100FFFB-B8F4-475D-9CC0-DE2083855610}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Intro _ Head, no tpt (m_ 1-20) 230 bpm#01" ID="{CE545C03-F370-4AD0-9BD6-411C3D0E520D}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="22000"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Intro _ Head, no tpt (m_ 1-20) 230 bpm#01" ID="{DE21F423-AFBA-42E5-84FA-7AB0B8162CFC}"/>
+													<PropertyCurveList>
+														<PropertyCurve PropertyName="Highpass">
+															<Curve Name="" ID="{8F0E83A4-9AB4-4AA2-87DA-3D8F547C0C7E}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>22</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+														<PropertyCurve PropertyName="Lowpass">
+															<Curve Name="" ID="{34768853-CE2C-4EF1-BCAE-9704DEB6BF59}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>22</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+														<PropertyCurve PropertyName="Volume">
+															<Curve Name="" ID="{A6240C5A-B7E6-42D3-95CA-530B03215E26}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>22</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+													</PropertyCurveList>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{C29425C8-B839-47E4-8C45-4D35722CE273}"/>
+								<MusicCue Name="Exit Cue" ID="{942C956D-2F24-4A09-AF2C-A44430FA0E09}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="20869.5652173913"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="Improv segment" ID="{14A59732-B0CB-4DE7-92FC-B0B2D7E3C6BE}" ShortID="393356823">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="16956.5217391304"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, db stm (m_ 21-36) 230 bpm#01" ID="{81E9FFFA-6693-468C-8D0F-6D2DBD298A78}" ShortID="475222536">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, db stm (m_ 21-36) 230 bpm#01" ID="{A4B9FC57-E141-4B2C-A4FA-136B1516441F}" ShortID="764876799">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, db stm (m. 21-36) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{84EC0641-D847-4A61-BC44-68F2B6AFDB10}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{7AE69ADB-9557-4F7E-939F-FF0045883F2E}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, db stm (m_ 21-36) 230 bpm#01" ID="{88478A2C-FB0C-49DD-A121-CE318CB83CC3}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="16956.5208333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, db stm (m_ 21-36) 230 bpm#01" ID="{A4B9FC57-E141-4B2C-A4FA-136B1516441F}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, ds stm - less intense (m_ 21-36) 230 bpm#01" ID="{C7F63664-DD89-4E95-8A56-27C551CB771B}" ShortID="361380778">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<RTPCList>
+												<RTPC Name="" ID="{7633C285-84D2-4D72-BA78-A8B3158BF473}" ShortID="218929268">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="Intensity_parameter" ID="{F11507D2-D698-436E-BED7-450B10BAD2DF}" WorkUnitID="{7D1033FC-CFC3-4322-BB09-D324CC4C07A7}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{0BA65A9B-933F-4277-A484-8898ABB12449}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-5.44655</YPos>
+																<Flags>5</Flags>
+																<SegmentShape>Exp1</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>50.13298</XPos>
+																<YPos>-200</YPos>
+																<Flags>0</Flags>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>-200</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, ds stm - less intense (m_ 21-36) 230 bpm#01" ID="{5EDE82EB-AB69-490B-A8B9-D4249205E0CE}" ShortID="929670891">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, ds stm - less intense (m. 21-36) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{0971971C-0505-4EA1-8083-FB3A683DEA96}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{5840DD76-6E8E-4AD9-BF4A-3B9A3688F95C}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, ds stm - less intense (m_ 21-36) 230 bpm#01" ID="{80FB96F5-AE5C-4AD9-A563-DA72F56D56DA}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="16956.5208333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, ds stm - less intense (m_ 21-36) 230 bpm#01" ID="{5EDE82EB-AB69-490B-A8B9-D4249205E0CE}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, ds stm - more intense (m_ 21-36) 230 bpm#01" ID="{6A20CB97-18EB-4BFD-9A2E-175090DB4480}" ShortID="57376020">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<RTPCList>
+												<RTPC Name="" ID="{99A55027-06B2-4D6F-9400-F40D625F1CD4}" ShortID="684238939">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="Intensity_parameter" ID="{F11507D2-D698-436E-BED7-450B10BAD2DF}" WorkUnitID="{7D1033FC-CFC3-4322-BB09-D324CC4C07A7}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{CAAAABE8-DE88-4CFD-9B00-F01A1E780434}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-200</YPos>
+																<Flags>5</Flags>
+															</Point>
+															<Point>
+																<XPos>50.13298</XPos>
+																<YPos>-200</YPos>
+																<Flags>0</Flags>
+																<SegmentShape>Log1</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>2.06044</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, ds stm - more intense (m_ 21-36) 230 bpm#01" ID="{87E98599-994B-48B1-83B2-853C517C2004}" ShortID="875165215">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, ds stm - more intense (m. 21-36) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{681129A0-35CB-4534-8E4C-D5716AF354A7}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{B1B7CF25-5D5B-4E05-99B5-3CFAEE87E785}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, ds stm - more intense (m_ 21-36) 230 bpm#01" ID="{B197107B-C6A2-4D7A-9D85-B8B4DAA7940D}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="16956.5208333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, ds stm - more intense (m_ 21-36) 230 bpm#01" ID="{87E98599-994B-48B1-83B2-853C517C2004}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, ds stm (m_ 21-36) 230 bpm#01" ID="{ADEADE10-84C6-44AD-AB70-06BC3E14CD25}" ShortID="854042607">
+									<PropertyList>
+										<Property Name="Volume" Type="Real64">
+											<RTPCList>
+												<RTPC Name="" ID="{DA7CF0E7-82B1-4109-90A8-DC0FD78294D4}" ShortID="466778170">
+													<ReferenceList>
+														<Reference Name="ControlInput">
+															<ObjectRef Name="Intensity_parameter" ID="{F11507D2-D698-436E-BED7-450B10BAD2DF}" WorkUnitID="{7D1033FC-CFC3-4322-BB09-D324CC4C07A7}"/>
+														</Reference>
+													</ReferenceList>
+													<Curve Name="" ID="{8718BC27-A3E4-4333-A122-5A117EC38AA4}">
+														<PropertyList>
+															<Property Name="Flags" Type="int32" Value="3"/>
+														</PropertyList>
+														<PointList>
+															<Point>
+																<XPos>0</XPos>
+																<YPos>-200</YPos>
+																<Flags>5</Flags>
+																<SegmentShape>Log1</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>50</XPos>
+																<YPos>1.45666</YPos>
+																<Flags>0</Flags>
+																<SegmentShape>Exp1</SegmentShape>
+															</Point>
+															<Point>
+																<XPos>100</XPos>
+																<YPos>-200</YPos>
+																<Flags>37</Flags>
+															</Point>
+														</PointList>
+													</Curve>
+												</RTPC>
+											</RTPCList>
+										</Property>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, ds stm (m_ 21-36) 230 bpm#01" ID="{59DDBAFB-9735-425E-A97A-5912D26614B5}" ShortID="280995106">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, ds stm (m. 21-36) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{DDEF23A1-1515-4BF3-B8BB-AEA7CEBF6B26}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{AFF3F4AE-9F28-414C-9D58-FC7C427C69A1}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, ds stm (m_ 21-36) 230 bpm#01" ID="{E8658634-B674-4FFE-B5B1-D1457D8A43D8}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="16956.5208333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, ds stm (m_ 21-36) 230 bpm#01" ID="{59DDBAFB-9735-425E-A97A-5912D26614B5}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, gtr stm (m_ 21-36) 230 bpm#01" ID="{B3D9543C-F630-47E6-8B88-61693D6FBE30}" ShortID="38015051">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, gtr stm (m_ 21-36) 230 bpm#01" ID="{3A1A0FE5-4F71-451B-8318-F9B96F96E0D9}" ShortID="942784920">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, gtr stm (m. 21-36) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{CB429A1B-9817-4314-BB65-13B907E4A070}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{D4CAB20B-2C72-4646-BD1D-F8644279F956}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, gtr stm (m_ 21-36) 230 bpm#01" ID="{E287DF71-B8DE-4ED9-8982-4CFB3E953C80}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="16956.5208333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, gtr stm (m_ 21-36) 230 bpm#01" ID="{3A1A0FE5-4F71-451B-8318-F9B96F96E0D9}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, pno stm (m_ 21-36) 230 bpm#01" ID="{0AF01059-39C4-40DC-B7E9-E26A7B2983AF}" ShortID="89139169">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, pno stm (m_ 21-36) 230 bpm#01" ID="{CE34EC8B-CA9D-43DD-B6D3-7369B992E42A}" ShortID="633665429">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, pno stm (m. 21-36) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{561B4B83-6149-4B60-BB2A-B414879AB9CB}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{C0889E25-1E2B-417F-97A1-7F23192CCA02}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, pno stm (m_ 21-36) 230 bpm#01" ID="{EC7E8CA9-7B23-4DBE-B9D2-3917898DA847}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="16956.5208333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, pno stm (m_ 21-36) 230 bpm#01" ID="{CE34EC8B-CA9D-43DD-B6D3-7369B992E42A}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<StingerList>
+								<MusicStinger Name="" ID="{1364ACE5-7503-416F-8BA3-D7D1330810D6}">
+									<PropertyList>
+										<Property Name="CustomCueMatchName" Type="string" Value="Lick 1"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Lick_1" ID="{4424065A-2D95-4853-BA23-6ACADDE16491}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 21) 230 bpm#01" ID="{63757C3C-4A4D-4C5A-B62B-FDB34FB14F01}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{AA82C370-2818-4343-BB6D-F8049799A3D1}">
+									<PropertyList>
+										<Property Name="CustomCueMatchName" Type="string" Value="Lick 2"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Lick_2" ID="{BDB90E26-2EF1-450F-9C0D-D441867C4753}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 25) 230 bpm#01" ID="{184DDD95-86CD-4E64-A104-BD87121B6505}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{308C9B7F-959C-4B09-A9FD-06DDEBF4BBAA}">
+									<PropertyList>
+										<Property Name="CustomCueMatchName" Type="string" Value="Lick 3"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Lick_3" ID="{67FB1D7D-4391-4228-BB9B-6C745D651BA7}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 29) 230 bpm#01" ID="{6F250FE4-6142-43F5-AFC7-B237E987B2E3}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{463A6E30-30B9-4150-88CD-363591A4834C}">
+									<PropertyList>
+										<Property Name="CustomCueMatchName" Type="string" Value="Lick 4"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Lick_4" ID="{DA5FBE59-D662-4FBB-B0D9-18C2A4A6184B}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 33) 230 bpm#01" ID="{56CE5CD2-33C9-45FE-B6A8-D8EFA5FCD948}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{2D8C5720-AFAE-4534-AB1C-815F9566A875}">
+									<PropertyList>
+										<Property Name="PlaySegmentAt" Type="int16" Value="3"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Fall_C" ID="{721E97BC-7AAD-44B0-947F-ABCAF8124924}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01" ID="{17BA7AE6-D3A0-4DE2-9B7B-369E75EF45A1}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{6FD08081-FBAC-4BE8-A024-B059AD881028}">
+									<PropertyList>
+										<Property Name="PlaySegmentAt" Type="int16" Value="3"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Fall_Bb" ID="{ED8EA5F4-A6EF-4B31-86F8-696665C05966}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01" ID="{A85DA6AE-11A0-46BF-97B4-CA9FFE4B3667}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{DBAE5D03-ABB1-465D-9A80-77168CA6E374}">
+									<PropertyList>
+										<Property Name="CustomCueMatchName" Type="string" Value="C#"/>
+										<Property Name="PlaySegmentAt" Type="int16" Value="5"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Fall_Csharp" ID="{DAD07FF8-DA41-4A77-ACCB-54CFB2C9ECCC}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01" ID="{5054FD41-10E4-4D84-BB9D-976917312A95}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+								<MusicStinger Name="" ID="{5876B4AB-E217-4875-93E7-E29D3F84A5DE}">
+									<PropertyList>
+										<Property Name="PlaySegmentAt" Type="int16" Value="3"/>
+									</PropertyList>
+									<TriggerRef Name="Willie_Mae_Fall_D" ID="{F52206FE-7572-4002-965E-F8D2DCB4DBA9}" WorkUnitID="{0134E595-BC07-41CD-B077-DC0F59A9446E}"/>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{A34F988C-FFA6-4977-ACD0-B07864249C8B}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</MusicStinger>
+							</StingerList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{5415F0C7-F6F6-4CEB-89E2-70CA4F10A767}"/>
+								<MusicCue Name="Exit Cue" ID="{62E71840-1393-41B6-912F-14FDE23CDA09}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="16695.652173913"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="Lick 1" ID="{F4B27B4B-DAFA-450F-8F17-4B6BECE2CFDD}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="Lick 2" ID="{40EC0176-CEBF-4EFC-B557-3A68A5D13AF6}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="4173.91304347826"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="Lick 3" ID="{DFB82343-26BD-48C6-8B3F-CCC07869468C}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="8347.82608695652"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="Lick 4" ID="{07A8D6B7-F49B-4CD4-A39B-F946013EE412}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="12521.7391304348"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C" ID="{F31C979D-F8B9-49E2-8B94-5398BD21661E}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="1043.47826086957"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{16FFF536-41C7-4B3B-A02B-82403EB3DCCA}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="2086.95652173913"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{0D7894DD-F475-44E3-BD1C-4392243C174E}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="2338.46392937366"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{BA23D24D-DEDE-451A-878B-EFD5C45852DF}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="2608.69565217391"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{305B693E-895F-486B-BCAA-478C64EAA6E8}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="2869.93300423131"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{28E0FE7C-360B-47D9-BFDA-8971E4C3A734}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="3130.4347826087"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{A7B800C2-CE8F-422B-9B80-C3347A723647}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="3391.30434782609"/>
+									</PropertyList>
+								</MusicCue>
+								<MusicCue Name="C#" ID="{B97FC038-2F80-4687-8B9F-CECA96BA391A}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="2"/>
+										<Property Name="TimeMs" Type="Real64" Value="3652.17391304348"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+					</ChildrenList>
+					<TransitionList>
+						<MusicTransition Name="Root" ID="{20C6EEF4-B5F6-4A72-BD62-66E81999EB22}">
+							<PropertyList>
+								<Property Name="IsFolder" Type="bool" Value="True"/>
+							</PropertyList>
+							<ChildrenList>
+								<MusicTransition Name="Transition" ID="{27A76433-36DB-4C7D-A44B-940FA0027051}">
+									<TransitionInfo/>
+								</MusicTransition>
+							</ChildrenList>
+							<TransitionInfo/>
+						</MusicTransition>
+					</TransitionList>
+					<Playlist>
+						<MusicPlaylistItem Name="" ID="{749A41B5-D0AD-463E-A206-D19F2793DC8D}" ShortID="1019796037">
+							<ChildrenList>
+								<MusicPlaylistItem Name="" ID="{C3A7D0AC-A858-4908-BF9D-3812CA0D8962}" ShortID="647547569">
+									<PropertyList>
+										<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+									</PropertyList>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Intro _ Head, no tpt (m_ 1-20) 230 bpm#01" ID="{2F02F861-3B56-4263-969D-ABA48ECBEAC3}"/>
+								</MusicPlaylistItem>
+								<MusicPlaylistItem Name="" ID="{87C0E36C-7595-499B-9581-130EA12BBB76}" ShortID="475873280">
+									<PropertyList>
+										<Property Name="LoopCount" Type="int16" Value="4"/>
+										<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+									</PropertyList>
+									<SegmentRef Name="Improv segment" ID="{14A59732-B0CB-4DE7-92FC-B0B2D7E3C6BE}"/>
+								</MusicPlaylistItem>
+								<MusicPlaylistItem Name="" ID="{ACA7EBE8-1B18-4C12-81FC-506A8320790A}" ShortID="471430179">
+									<PropertyList>
+										<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+									</PropertyList>
+									<SegmentRef Name="AC - Kid Kwei - v01 - Ending Head, no tpt (m_ 36-52) 230 bpm#01" ID="{FEDA0F7F-DC33-4470-A868-5F161E7FDEB8}"/>
+								</MusicPlaylistItem>
+							</ChildrenList>
+						</MusicPlaylistItem>
+					</Playlist>
+				</MusicPlaylistContainer>
+				<Folder Name="Stingers" ID="{7B0E7088-8DD7-4AFB-A676-8157928A58D3}" ShortID="189414581">
+					<ChildrenList>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 21) 230 bpm#01" ID="{63757C3C-4A4D-4C5A-B62B-FDB34FB14F01}" ShortID="618534434">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="5478.25"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 21) 230 bpm#01" ID="{FA44B9AA-0BB6-422C-912E-0032DC52C317}" ShortID="619841708">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 21) 230 bpm#01" ID="{0C357D47-C6F1-499E-A557-CB9FE51613E0}" ShortID="59765776">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt repetitions (m. 21) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{05CD2EDC-2402-4C51-9B90-D5508CEB9A96}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{8133EC13-0F80-40EF-BAB9-9FA9E1343DA0}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 21) 230 bpm#01" ID="{92EE5434-27A0-4307-B61A-31B425F0DEFA}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="5478.25"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 21) 230 bpm#01" ID="{0C357D47-C6F1-499E-A557-CB9FE51613E0}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{0FC6CCBC-CC22-4485-A5ED-5C8FA276F7BD}"/>
+								<MusicCue Name="Exit Cue" ID="{55A1BA1E-B8FE-4D47-BA17-5C0ED65A3132}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="5478.25"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 25) 230 bpm#01" ID="{184DDD95-86CD-4E64-A104-BD87121B6505}" ShortID="270666323">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="5478.26086956522"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 25) 230 bpm#01" ID="{E8BDF25C-BE06-497D-8F3C-F27C83269822}" ShortID="787350426">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 25) 230 bpm#01" ID="{5B1E0466-8D61-4B25-A062-E500D5DA5B5B}" ShortID="140732708">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt repetitions (m. 25) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{9502C3A0-3BF9-425A-ACFB-DD864B90763A}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{D7191CB5-4C78-4247-B0C9-8AF3F6566F49}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 25) 230 bpm#01" ID="{92EE5B0B-9743-4292-992C-F84AE387EE4F}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="4695.65217391305"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutDuration" Type="Real64" Value="1081.7418899859"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 25) 230 bpm#01" ID="{5B1E0466-8D61-4B25-A062-E500D5DA5B5B}"/>
+													<PropertyCurveList>
+														<PropertyCurve PropertyName="Highpass">
+															<Curve Name="" ID="{E23DB5D7-4128-436C-8E26-C1BEFF1BD223}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>4.69565</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+														<PropertyCurve PropertyName="Lowpass">
+															<Curve Name="" ID="{F1059EB2-B5E7-4B81-82FA-4734A57CA29D}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="1"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>4.69565</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+														<PropertyCurve PropertyName="Volume">
+															<Curve Name="" ID="{38B2B73F-CE5E-48A4-87FC-4F29970CAE4A}">
+																<PropertyList>
+																	<Property Name="Flags" Type="int32" Value="3"/>
+																</PropertyList>
+																<PointList>
+																	<Point>
+																		<XPos>0</XPos>
+																		<YPos>0</YPos>
+																		<Flags>5</Flags>
+																	</Point>
+																	<Point>
+																		<XPos>4.69565</XPos>
+																		<YPos>0</YPos>
+																		<Flags>37</Flags>
+																	</Point>
+																</PointList>
+															</Curve>
+														</PropertyCurve>
+													</PropertyCurveList>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{EE19E2AF-75E0-4B78-9EDB-65A5F6190A09}"/>
+								<MusicCue Name="Exit Cue" ID="{1164A099-C3A7-4ED3-9CB1-0A9AF2C8DD3E}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="4173.91304347826"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 29) 230 bpm#01" ID="{6F250FE4-6142-43F5-AFC7-B237E987B2E3}" ShortID="941813015">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="5478.25"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 29) 230 bpm#01" ID="{7170B90E-FF95-4248-98A1-927662A22910}" ShortID="621559533">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 29) 230 bpm#01" ID="{92376215-D756-470C-9E3E-38AAB4F0164E}" ShortID="303578748">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt repetitions (m. 29) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{9C860B0C-D82C-4D54-B806-0F1420293301}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{C9268210-E4DB-4F88-A465-E0F7D583E0A5}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 29) 230 bpm#01" ID="{9CE3BADE-4254-42A8-AAD9-F85A9B9CE457}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="5478.25"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 29) 230 bpm#01" ID="{92376215-D756-470C-9E3E-38AAB4F0164E}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{19B8DC41-13BF-4B67-A963-EEDD9F645B7D}"/>
+								<MusicCue Name="Exit Cue" ID="{54D3D8BC-0680-408C-A0AF-2F207697EB12}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="5478.25"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 33) 230 bpm#01" ID="{56CE5CD2-33C9-45FE-B6A8-D8EFA5FCD948}" ShortID="416906263">
+							<PropertyList>
+								<Property Name="EndPosition" Type="Real64" Value="4434.77083333333"/>
+								<Property Name="Tempo" Type="Real64" Value="230"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 33) 230 bpm#01" ID="{96069CA0-A37E-4150-B5FF-90661C39D3AF}" ShortID="344377603">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 33) 230 bpm#01" ID="{5C15FDAD-1D74-4B2C-AABC-0E999B5A8FCE}" ShortID="810651402">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt repetitions (m. 33) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{50743F22-89C7-4B38-9BFB-26E093A46406}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{DF83F191-A414-4123-ABB9-3F1BDAD16612}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 33) 230 bpm#01" ID="{09251F4C-A891-4EFB-8663-BDFADC01E009}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="4434.77083333333"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt repetitions (m_ 33) 230 bpm#01" ID="{5C15FDAD-1D74-4B2C-AABC-0E999B5A8FCE}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{0A85AA1D-B28F-44FB-AB73-014AC332E269}"/>
+								<MusicCue Name="Exit Cue" ID="{84B658C7-461B-4CE8-AD10-7BBA444594C6}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="4434.77083333333"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01" ID="{A85DA6AE-11A0-46BF-97B4-CA9FFE4B3667}" ShortID="643303877">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01" ID="{086C52AE-9CFA-4BA0-AE77-5A1F318731A9}" ShortID="796223542">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01" ID="{A9940963-A5B9-484D-92F8-9B096B7010BF}" ShortID="1006769402">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{43A968D4-E605-4E7E-8E4C-E43D09A21EB5}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{2514ED2A-4A1C-451A-88AF-8CA2BB4223F9}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01" ID="{0E520C87-60ED-408A-BAB5-AA3A7B3AC62C}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="2347.8125"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01" ID="{A9940963-A5B9-484D-92F8-9B096B7010BF}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{CBDCDD8C-B399-4DCD-A397-7C61136AE746}"/>
+								<MusicCue Name="Exit Cue" ID="{217DFB30-E55D-452F-8E9B-284C79878E62}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="2347.8125"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01" ID="{5054FD41-10E4-4D84-BB9D-976917312A95}" ShortID="566445356">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01" ID="{79F6F8FA-5D43-494F-A326-0F12957AD3D0}" ShortID="374545633">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01" ID="{DDBB2FD5-C61B-4BB0-99C2-4041DDA766D9}" ShortID="176509213">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{9AD54B9C-4EF1-46D1-92F0-0E7762524124}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{D41E4D84-C21C-437F-88D6-BEC0A2C68B64}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01" ID="{53883C0E-C10C-412D-9B6C-087414F4B487}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="2347.8125"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01" ID="{DDBB2FD5-C61B-4BB0-99C2-4041DDA766D9}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{574D4436-35E6-4793-849B-37037D0C0359}"/>
+								<MusicCue Name="Exit Cue" ID="{CB37378E-E0A9-4E6C-93A0-FC94C108D1BD}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="2347.8125"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01" ID="{17BA7AE6-D3A0-4DE2-9B7B-369E75EF45A1}" ShortID="96309328">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01" ID="{998B05D7-8F38-45AE-9BAD-D3449ECB17C7}" ShortID="546741615">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01" ID="{2F3655C1-3523-42BB-9EFC-FBC29F7CFA20}" ShortID="434547669">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{9C57CDC1-8E4F-4599-80F6-9F2C4BE058F1}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{7E23458D-8D20-4156-B233-A5521ADF2BDE}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01" ID="{58DFD007-3675-48DB-AA64-0F0A4A4A9693}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="2347.8125"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01" ID="{2F3655C1-3523-42BB-9EFC-FBC29F7CFA20}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{CD9C9945-9A41-493F-9163-464751CEABEA}"/>
+								<MusicCue Name="Exit Cue" ID="{415E10B5-8B84-412D-866F-77C0AF8B867C}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="2347.8125"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+						<MusicSegment Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{A34F988C-FFA6-4977-ACD0-B07864249C8B}" ShortID="400141956">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<MusicTrack Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{3062248F-770A-4B3E-AEB8-EB208B3A57AA}" ShortID="959638030">
+									<ReferenceList>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{01496FAF-134E-45E9-A8A8-0012BA003DAA}" ShortID="654089387">
+											<Language>SFX</Language>
+											<AudioFile>AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02.wav</AudioFile>
+										</AudioFileSource>
+									</ChildrenList>
+									<TransitionList>
+										<MusicTransition Name="Root" ID="{843455E5-0694-4C1D-9B8C-1FB2EC56B2EA}">
+											<PropertyList>
+												<Property Name="IsFolder" Type="bool" Value="True"/>
+											</PropertyList>
+											<TransitionInfo/>
+										</MusicTransition>
+									</TransitionList>
+									<SequenceList>
+										<MusicTrackSequence Name="" ID="{F26775DD-CB99-44BA-8746-62227A524D20}">
+											<ClipList>
+												<MusicClip Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{A33A7A1C-D24F-4B42-8028-7D359CA8D466}">
+													<PropertyList>
+														<Property Name="EndTrimOffset" Type="Real64" Value="2347.8125"/>
+														<Property Name="FadeInMode" Type="int16" Value="0"/>
+														<Property Name="FadeOutMode" Type="int16" Value="0"/>
+													</PropertyList>
+													<AudioSourceRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{01496FAF-134E-45E9-A8A8-0012BA003DAA}"/>
+												</MusicClip>
+											</ClipList>
+										</MusicTrackSequence>
+									</SequenceList>
+								</MusicTrack>
+							</ChildrenList>
+							<CueList>
+								<MusicCue Name="Entry Cue" ID="{41D8268F-52A7-4C11-983E-ADE5CC94A4B0}"/>
+								<MusicCue Name="Exit Cue" ID="{206B93EF-775B-4E5B-AC14-E890589B60EB}">
+									<PropertyList>
+										<Property Name="CueType" Type="int16" Value="1"/>
+										<Property Name="TimeMs" Type="Real64" Value="2347.8125"/>
+									</PropertyList>
+								</MusicCue>
+							</CueList>
+						</MusicSegment>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
+	</InteractiveMusic>
+</WwiseDocument>

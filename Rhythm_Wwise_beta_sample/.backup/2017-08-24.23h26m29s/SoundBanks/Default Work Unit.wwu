@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{5756A5F2-804A-428E-9C55-95752D3DECD5}" SchemaVersion="75">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{5756A5F2-804A-428E-9C55-95752D3DECD5}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Kid_Kwei" ID="{BCF93C02-C224-4F4D-9729-10F5E38B16DF}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Kid Kwei Main Playlist" ID="{6D2C5DFC-0BE1-4BF7-AA5F-4B5974CD434E}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}" Filter="7" Origin="Manual"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

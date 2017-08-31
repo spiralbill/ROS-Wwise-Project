@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<IncrementalBankBuild Version="6" Flags="878078161">
+	<Platform GUID="{B40F48EE-F5E4-457C-9C3F-1AB58DA57631}">
+		<Banks>
+			<Language ID="0">
+				<File Name="Init" Hash="2918906857" Timestamp="131481136780000000"/>
+				<File Name="KidKweiTest" Hash="3618714301" Timestamp="131481136630000000"/>
+				<File Name="Kid_Kwei" Hash="3157437514" Timestamp="131481146030000000"/>
+			</Language>
+			<Language ID="393239870">
+				<File Name="Init" Hash="752472478" Timestamp="131481161090000000"/>
+				<File Name="Kid_Kwei" Hash="3251612195" Timestamp="131481181770000000"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="3688345486" Timestamp="131481181770000000"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+	<Platform GUID="{A5A992EB-4D98-4D28-A481-5348A2D90E45}">
+		<Banks>
+			<Language ID="0">
+				<File Name="Init" Hash="1986279915" Timestamp="131481146030000000"/>
+				<File Name="Kid_Kwei" Hash="3157437514" Timestamp="131481146030000000"/>
+			</Language>
+			<Language ID="393239870">
+				<File Name="Init" Hash="445979020" Timestamp="131481161090000000"/>
+				<File Name="Kid_Kwei" Hash="3251612195" Timestamp="131481181780000000"/>
+			</Language>
+		</Banks>
+		<XMLInfo>
+			<Language ID="-1">
+				<File Name="" Hash="2268324756" Timestamp="131481181780000000"/>
+			</Language>
+		</XMLInfo>
+	</Platform>
+</IncrementalBankBuild>

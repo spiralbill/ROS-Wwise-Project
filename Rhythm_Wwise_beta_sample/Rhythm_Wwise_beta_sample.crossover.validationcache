@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="80">
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Attenuations\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Audio Devices\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Control Surface Sessions\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Conversion Settings\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Conversion Settings\Factory Conversion Settings.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Dynamic Dialogue\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory Auro Headphone.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory Effects.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Box Modeler.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Delay.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Dynamics.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Filters.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Effects\Factory McDSP Effects.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Events\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Game Parameters\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Game Parameters\Intensity param.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Mixing Sessions\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Modulators\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Presets\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Queries\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Queries\Factory Queries.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Rhythm_Wwise_beta_sample.crossover.wsettings" DateLow="2067679104" DateHigh="30612851"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Rhythm_Wwise_beta_sample.wproj" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\SoundBanks\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Soundcaster Sessions\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\States\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Switches\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Triggers\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+	<ValidationCacheItem File="Y:\Desktop\PROJECTS\ROS Unity\ROS-PROTO-TEST-1-master\Rhythm_Wwise_beta_sample\Virtual Acoustics\Default Work Unit.wwu" DateLow="367417472" DateHigh="30612843"/>
+</ValidationCache>

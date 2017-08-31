@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{7D1033FC-CFC3-4322-BB09-D324CC4C07A7}" SchemaVersion="75">
+	<GameParameters>
+		<WorkUnit Name="Intensity param" ID="{7D1033FC-CFC3-4322-BB09-D324CC4C07A7}" PersistMode="Standalone">
+			<ChildrenList>
+				<GameParameter Name="Intensity_parameter" ID="{F11507D2-D698-436E-BED7-450B10BAD2DF}">
+					<PropertyList>
+						<Property Name="InitialValue" Type="Real64" Value="0"/>
+					</PropertyList>
+				</GameParameter>
+			</ChildrenList>
+		</WorkUnit>
+	</GameParameters>
+</WwiseDocument>
