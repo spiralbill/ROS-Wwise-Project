@@ -1,6 +1,37 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2028364E-2815-4B86-8EE2-17C7BA2D0EFE}" SchemaVersion="80">
 	<Events>
-		<WorkUnit Name="Default Work Unit" ID="{2028364E-2815-4B86-8EE2-17C7BA2D0EFE}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2028364E-2815-4B86-8EE2-17C7BA2D0EFE}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="KidKwei_MainPlaylist" ID="{5A94F10F-E816-4940-BC35-D97EF53679A2}">
+					<ChildrenList>
+						<Action Name="" ID="{2DB3D64F-14F9-4244-9720-570F16EDB9ED}" ShortID="344728311">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kid Kwei Main Playlist" ID="{6D2C5DFC-0BE1-4BF7-AA5F-4B5974CD434E}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="KidKwei_Licks" ID="{7A8D6F42-B0FC-4666-BDD2-B50F80A4EAEA}">
+					<ChildrenList>
+						<Action Name="" ID="{920818F9-1C77-4BFD-80AF-E0F17B1C8E23}" ShortID="352701484">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kid Kwei Licks" ID="{4E6760A7-4DAD-4BB7-8646-8368958BBF7E}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
 	</Events>
 </WwiseDocument>

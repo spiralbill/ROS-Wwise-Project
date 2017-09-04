@@ -5,7 +5,8 @@
 			<ChildrenList>
 				<SoundBank Name="Kid_Kwei" ID="{BCF93C02-C224-4F4D-9729-10F5E38B16DF}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Kid Kwei Main Playlist" ID="{6D2C5DFC-0BE1-4BF7-AA5F-4B5974CD434E}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="KidKwei_Licks" ID="{7A8D6F42-B0FC-4666-BDD2-B50F80A4EAEA}" WorkUnitID="{2028364E-2815-4B86-8EE2-17C7BA2D0EFE}" Filter="7" Origin="Manual"/>
+						<ObjectRef Name="KidKwei_MainPlaylist" ID="{5A94F10F-E816-4940-BC35-D97EF53679A2}" WorkUnitID="{2028364E-2815-4B86-8EE2-17C7BA2D0EFE}" Filter="7" Origin="Manual"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>

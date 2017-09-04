@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ValidationCache Version="1" SchemaVersion="80">
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Actor-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1887828497" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Actor-Mixer Hierarchy\Factory SoundSeed Air Objects.wwu" DateLow="1887938794" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Actor-Mixer Hierarchy\Factory Synth One.wwu" DateLow="1888069138" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Attenuations\Default Work Unit.wwu" DateLow="1888099221" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Audio Devices\Default Work Unit.wwu" DateLow="1888129298" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Control Surface Sessions\Default Work Unit.wwu" DateLow="1888159381" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Conversion Settings\Default Work Unit.wwu" DateLow="1888194476" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Conversion Settings\Factory Conversion Settings.wwu" DateLow="1888224556" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Dynamic Dialogue\Default Work Unit.wwu" DateLow="1888249618" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Default Work Unit.wwu" DateLow="1888274686" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory Auro Headphone.wwu" DateLow="1888309781" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory Effects.wwu" DateLow="1888359914" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Box Modeler.wwu" DateLow="1888445139" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Delay.wwu" DateLow="1888475219" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Dynamics.wwu" DateLow="1888510311" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Filters.wwu" DateLow="1888535383" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Hybrid Reverb Effects.wwu" DateLow="1888570474" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Multiband Distortion.wwu" DateLow="1888600554" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory iZotope Singleband Distortion.wwu" DateLow="1888635646" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Effects\Factory McDSP Effects.wwu" DateLow="1888410045" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Events\Default Work Unit.wwu" DateLow="1888660714" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Game Parameters\Default Work Unit.wwu" DateLow="1888685780" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Game Parameters\Factory SoundSeed Air Game Syncs.wwu" DateLow="1888715860" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Game Parameters\Intensity param.wwu" DateLow="1888745943" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Interactive Music Hierarchy\Default Work Unit.wwu" DateLow="1900702755" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Master-Mixer Hierarchy\Default Work Unit.wwu" DateLow="1900737850" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Mixing Sessions\Default Work Unit.wwu" DateLow="1900767930" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Modulators\Default Work Unit.wwu" DateLow="1900798007" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Presets\Default Work Unit.wwu" DateLow="1907876868" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Queries\Default Work Unit.wwu" DateLow="1907916984" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Queries\Factory Queries.wwu" DateLow="1907947058" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Rhythm_Wwise_beta_sample.wproj" DateLow="1214486139" DateHigh="30614941"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\SoundBanks\Default Work Unit.wwu" DateLow="1908147595" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Soundcaster Sessions\Default Work Unit.wwu" DateLow="1908177672" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\States\Default Work Unit.wwu" DateLow="1908202737" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Switches\Default Work Unit.wwu" DateLow="1908232814" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Triggers\Default Work Unit.wwu" DateLow="1908257882" DateHigh="30614835"/>
+	<ValidationCacheItem File="F:\School\USC\Rhythms\GitHub\ROS-Wwise-Project\Rhythm_Wwise_beta_sample\Virtual Acoustics\Default Work Unit.wwu" DateLow="1908282953" DateHigh="30614835"/>
+</ValidationCache>

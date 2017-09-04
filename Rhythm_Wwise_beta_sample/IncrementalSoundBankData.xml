@@ -8,13 +8,13 @@
 				<File Name="Kid_Kwei" Hash="3157437514" Timestamp="131481146030000000"/>
 			</Language>
 			<Language ID="393239870">
-				<File Name="Init" Hash="752472478" Timestamp="131481161090000000"/>
-				<File Name="Kid_Kwei" Hash="3251612195" Timestamp="131481181770000000"/>
+				<File Name="Init" Hash="752472478" Timestamp="131490198349561930"/>
+				<File Name="Kid_Kwei" Hash="2760747452" Timestamp="131490240685967109"/>
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="3688345486" Timestamp="131481181770000000"/>
+				<File Name="" Hash="68935042" Timestamp="131490240686050154"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
@@ -25,13 +25,13 @@
 				<File Name="Kid_Kwei" Hash="3157437514" Timestamp="131481146030000000"/>
 			</Language>
 			<Language ID="393239870">
-				<File Name="Init" Hash="445979020" Timestamp="131481161090000000"/>
-				<File Name="Kid_Kwei" Hash="3251612195" Timestamp="131481181780000000"/>
+				<File Name="Init" Hash="445979020" Timestamp="131490198352003848"/>
+				<File Name="Kid_Kwei" Hash="2760747452" Timestamp="131490240688146224"/>
 			</Language>
 		</Banks>
 		<XMLInfo>
 			<Language ID="-1">
-				<File Name="" Hash="2268324756" Timestamp="131481181780000000"/>
+				<File Name="" Hash="228098876" Timestamp="131490240688221435"/>
 			</Language>
 		</XMLInfo>
 	</Platform>
