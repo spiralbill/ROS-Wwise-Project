@@ -1320,6 +1320,383 @@
 										</MusicCue>
 									</CueList>
 								</MusicSegment>
+								<MusicSegment Name="ROS M Lick tpt fallShort F v1" ID="{2CF73351-19E8-44CF-A5DD-7B8F7E1B301C}" ShortID="733608358">
+									<PropertyList>
+										<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+										<Property Name="Tempo" Type="Real64" Value="230"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="ROS M Lick tpt fallShort chord v1" ID="{77D952DF-B335-49C8-BE03-C666E7C5FAD8}" ShortID="607153643">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ROS M Lick tpt fallShort chord v1" ID="{9A79C27B-46A5-436D-8120-C82128A06DB9}" ShortID="1069860400">
+													<Language>SFX</Language>
+													<AudioFile>ROS M Lick tpt fallShort chord v1.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{371E1B79-9B9A-446C-8FB2-AB26F0FD77FA}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{3DB6B141-DCF4-408A-A5E4-220D4A5EA0B1}">
+													<ClipList>
+														<MusicClip Name="ROS M Lick tpt fallShort chord v1" ID="{2C59DABD-7C34-402E-B34F-FE1C6E630310}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="1043.47916666667"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="ROS M Lick tpt fallShort chord v1" ID="{9A79C27B-46A5-436D-8120-C82128A06DB9}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{7996430E-EB70-4B4C-9635-022FDDA72A00}"/>
+										<MusicCue Name="Exit Cue" ID="{8D4D0553-C1A0-4825-8F68-BB3D7A83F596}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="1043.47916666667"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+								<MusicSegment Name="ROS M Lick tpt dooDat F v1" ID="{4F85B8CF-887F-4CD2-982F-A948BE5C1DA6}" ShortID="921368754">
+									<PropertyList>
+										<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+										<Property Name="Tempo" Type="Real64" Value="230"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="ROS M Lick tpt dooDat chord v1" ID="{A744761E-7C74-4DE9-89A0-85BC0138D4E3}" ShortID="362991608">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ROS M Lick tpt dooDat chord v1" ID="{B7E4C3E2-8620-4872-9787-F2D55B343065}" ShortID="488518175">
+													<Language>SFX</Language>
+													<AudioFile>ROS M Lick tpt dooDat chord v1.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{9B49CDF6-ECE1-4524-BB4D-21F4A761A483}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{618590CC-CD48-4FF8-9CA9-E817BFAE2122}">
+													<ClipList>
+														<MusicClip Name="ROS M Lick tpt dooDat chord v1" ID="{56A8862D-8F8F-4115-85C5-E29644DCEBBB}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="2086.95833333333"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="ROS M Lick tpt dooDat chord v1" ID="{B7E4C3E2-8620-4872-9787-F2D55B343065}"/>
+															<PropertyCurveList>
+																<PropertyCurve PropertyName="Volume">
+																	<Curve Name="" ID="{1A0CF501-DBBA-4840-B852-77083E5BC7B6}">
+																		<PropertyList>
+																			<Property Name="Flags" Type="int32" Value="3"/>
+																		</PropertyList>
+																		<PointList>
+																			<Point>
+																				<XPos>0</XPos>
+																				<YPos>0</YPos>
+																				<Flags>5</Flags>
+																			</Point>
+																			<Point>
+																				<XPos>2.08695833333333</XPos>
+																				<YPos>0</YPos>
+																				<Flags>37</Flags>
+																			</Point>
+																		</PointList>
+																	</Curve>
+																</PropertyCurve>
+															</PropertyCurveList>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{417E8A9C-CFA9-4B53-9243-4CC1306B3AD2}"/>
+										<MusicCue Name="Exit Cue" ID="{B5E969D1-0E55-458C-BE11-B85C0BB7204F}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="2086.95833333333"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+								<MusicSegment Name="ROS M Lick tpt fallLong F v1" ID="{F3E5C4EC-1004-4D0B-8520-967BBF7CF2A5}" ShortID="477231043">
+									<PropertyList>
+										<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+										<Property Name="Tempo" Type="Real64" Value="230"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="ROS M Lick tpt fallLong chord v1" ID="{14370605-CE2D-432D-A4ED-7570DB5E387C}" ShortID="582643470">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ROS M Lick tpt fallLong chord v1" ID="{17D986C2-1A84-4CA1-8E44-1767EA93BDFA}" ShortID="212277767">
+													<Language>SFX</Language>
+													<AudioFile>ROS M Lick tpt fallLong chord v1.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{3CCB33A1-8AF3-4AA2-8E93-9A8BB6594F0B}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{D9777AE6-F816-4339-B21F-F0D077F21158}">
+													<ClipList>
+														<MusicClip Name="ROS M Lick tpt fallLong chord v1" ID="{1C616F5D-5C5D-44E4-BD82-0AB5FB781C79}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="2086.95833333333"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="ROS M Lick tpt fallLong chord v1" ID="{17D986C2-1A84-4CA1-8E44-1767EA93BDFA}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{712D5F69-1338-422B-898B-767353E98A5B}"/>
+										<MusicCue Name="Exit Cue" ID="{4B367043-D816-472E-95D8-A99DA4A7E6AC}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="2086.95833333333"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+								<MusicSegment Name="ROS M Lick tpt fpCresc F v1" ID="{FC771B0D-BBB5-4D0D-B0FA-CC45EDEE1F89}" ShortID="867102459">
+									<PropertyList>
+										<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="ROS M Lick tpt fpCresc chord v1" ID="{36AA91D0-93C6-49E9-8621-84F790F99BE7}" ShortID="398711542">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ROS M Lick tpt fpCresc chord v1" ID="{EEC8BDA4-DC13-49F5-94ED-9DA29C264B2E}" ShortID="571518907">
+													<Language>SFX</Language>
+													<AudioFile>ROS M Lick tpt fpCresc chord v1.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{0990DB50-264E-4C44-8FD1-A9F5FA7ACCD5}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{F9692B17-F5CB-4312-B4D7-5384DEF0BD86}">
+													<ClipList>
+														<MusicClip Name="ROS M Lick tpt fpCresc chord v1" ID="{77516ACA-28F3-4DB6-8777-DE93E07A4DE9}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="3130.4375"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="ROS M Lick tpt fpCresc chord v1" ID="{EEC8BDA4-DC13-49F5-94ED-9DA29C264B2E}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{18C25F24-188E-4041-A373-B59D3DD02F7F}"/>
+										<MusicCue Name="Exit Cue" ID="{6841C1A4-F5F2-4C22-A44F-1D5F6E1637B4}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="3130.4375"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+								<MusicSegment Name="ROS M Lick tpt growl F v1" ID="{140BC94E-C5B0-49BF-AD1B-3C6C081CE47C}" ShortID="301647680">
+									<PropertyList>
+										<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="ROS M Lick tpt growl chord v1" ID="{3A2FC868-92E9-4424-8810-DC8A2165BBF7}" ShortID="826502408">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ROS M Lick tpt growl chord v1" ID="{B1CA828F-A93A-4739-9A5C-0FB576205FFE}" ShortID="437498875">
+													<Language>SFX</Language>
+													<AudioFile>ROS M Lick tpt growl chord v1.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{05A57E65-0E09-43CD-AF1C-FA0498ED7212}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{4F736DF6-9B3A-4973-93DF-FC710CA97FE9}">
+													<ClipList>
+														<MusicClip Name="ROS M Lick tpt growl chord v1" ID="{80490FBA-4FA6-4538-9C1A-D31E61A80D6A}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="2746"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="ROS M Lick tpt growl chord v1" ID="{B1CA828F-A93A-4739-9A5C-0FB576205FFE}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{268E5E1B-A94D-4D5B-A37E-593DF6AC0194}"/>
+										<MusicCue Name="Exit Cue" ID="{DD74375E-56FF-4A86-8D4C-E304CA67EDED}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="2746"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
+								<MusicSegment Name="ROS M Lick tpt shake F v1" ID="{13C76569-3D0E-4A62-A11D-317D23EC3763}" ShortID="565431980">
+									<PropertyList>
+										<Property Name="GridFrequencyPreset" Type="int16" Value="52"/>
+									</PropertyList>
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{D7ACEA02-E034-4800-ACDD-8B2070C53539}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<MusicTrack Name="ROS M Lick tpt shake chord v1" ID="{D06E9682-7077-48A4-8172-1D0FB1A3DEEA}" ShortID="889227832">
+											<ReferenceList>
+												<Reference Name="OutputBus">
+													<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{D580F84F-482A-41BB-B68F-C2D11A9F4C34}"/>
+												</Reference>
+											</ReferenceList>
+											<ChildrenList>
+												<AudioFileSource Name="ROS M Lick tpt shake chord v1" ID="{99C50C1C-E912-4A09-95CC-E823EA115E87}" ShortID="470977958">
+													<Language>SFX</Language>
+													<AudioFile>ROS M Lick tpt shake chord v1.wav</AudioFile>
+												</AudioFileSource>
+											</ChildrenList>
+											<TransitionList>
+												<MusicTransition Name="Root" ID="{17443B01-3AAA-40CE-AFC6-B8CF7B5A49FF}">
+													<PropertyList>
+														<Property Name="IsFolder" Type="bool" Value="True"/>
+													</PropertyList>
+													<TransitionInfo/>
+												</MusicTransition>
+											</TransitionList>
+											<SequenceList>
+												<MusicTrackSequence Name="" ID="{B4CB3F7F-A5A0-4E60-87B6-7391F4573F80}">
+													<ClipList>
+														<MusicClip Name="ROS M Lick tpt shake chord v1" ID="{BDA0C769-DC9E-443D-A49E-1FC6E5E6D883}">
+															<PropertyList>
+																<Property Name="EndTrimOffset" Type="Real64" Value="3137.29166666667"/>
+																<Property Name="FadeInMode" Type="int16" Value="0"/>
+																<Property Name="FadeOutMode" Type="int16" Value="0"/>
+															</PropertyList>
+															<AudioSourceRef Name="ROS M Lick tpt shake chord v1" ID="{99C50C1C-E912-4A09-95CC-E823EA115E87}"/>
+														</MusicClip>
+													</ClipList>
+												</MusicTrackSequence>
+											</SequenceList>
+										</MusicTrack>
+									</ChildrenList>
+									<CueList>
+										<MusicCue Name="Entry Cue" ID="{336F9F7F-4702-46C5-8891-8BE78D69ECEF}"/>
+										<MusicCue Name="Exit Cue" ID="{ADC3B00B-F889-481B-8C12-4EB368F8B987}">
+											<PropertyList>
+												<Property Name="CueType" Type="int16" Value="1"/>
+												<Property Name="TimeMs" Type="Real64" Value="3137.29166666667"/>
+											</PropertyList>
+										</MusicCue>
+									</CueList>
+								</MusicSegment>
 							</ChildrenList>
 							<TransitionList>
 								<MusicTransition Name="Root" ID="{22FADC3A-8F18-4B84-86EA-A99DC1ED6D55}">
@@ -1336,9 +1713,6 @@
 							</TransitionList>
 							<Playlist>
 								<MusicPlaylistItem Name="" ID="{0EC96F1B-E0A2-47CE-ABD6-1C805437E48C}" ShortID="114698413">
-									<PropertyList>
-										<Property Name="PlayMode" Type="int16" Value="3"/>
-									</PropertyList>
 									<ChildrenList>
 										<MusicPlaylistItem Name="" ID="{617758C1-D365-44FB-868E-76BE1568D047}" ShortID="1000498464">
 											<PropertyList>
@@ -1363,6 +1737,42 @@
 												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
 											</PropertyList>
 											<SegmentRef Name="AC - Kid Kwei - v01 - Solos, tpt fall (D) 230 bpm#02" ID="{A34F988C-FFA6-4977-ACD0-B07864249C8B}"/>
+										</MusicPlaylistItem>
+										<MusicPlaylistItem Name="" ID="{81058B9C-DD5C-41BE-BD95-9A8B5A53E133}" ShortID="480810054">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="ROS M Lick tpt dooDat F v1" ID="{4F85B8CF-887F-4CD2-982F-A948BE5C1DA6}"/>
+										</MusicPlaylistItem>
+										<MusicPlaylistItem Name="" ID="{E8302566-8589-44E5-8FDB-E1BB91CD81A8}" ShortID="470619651">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="ROS M Lick tpt fallLong F v1" ID="{F3E5C4EC-1004-4D0B-8520-967BBF7CF2A5}"/>
+										</MusicPlaylistItem>
+										<MusicPlaylistItem Name="" ID="{5D8313B5-FAA8-466D-BCCE-3F073ED91A91}" ShortID="215584003">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="ROS M Lick tpt fallShort F v1" ID="{2CF73351-19E8-44CF-A5DD-7B8F7E1B301C}"/>
+										</MusicPlaylistItem>
+										<MusicPlaylistItem Name="" ID="{3241A695-44E0-4116-87FB-A45B25C1FB60}" ShortID="983191368">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="ROS M Lick tpt fpCresc F v1" ID="{FC771B0D-BBB5-4D0D-B0FA-CC45EDEE1F89}"/>
+										</MusicPlaylistItem>
+										<MusicPlaylistItem Name="" ID="{941DA106-39B5-4387-93EE-540A58582960}" ShortID="243179463">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="ROS M Lick tpt growl F v1" ID="{140BC94E-C5B0-49BF-AD1B-3C6C081CE47C}"/>
+										</MusicPlaylistItem>
+										<MusicPlaylistItem Name="" ID="{B227D21D-F57B-4923-BD91-370B7A546602}" ShortID="677244927">
+											<PropertyList>
+												<Property Name="PlaylistItemType" Type="int16" Value="1"/>
+											</PropertyList>
+											<SegmentRef Name="ROS M Lick tpt shake F v1" ID="{13C76569-3D0E-4A62-A11D-317D23EC3763}"/>
 										</MusicPlaylistItem>
 									</ChildrenList>
 								</MusicPlaylistItem>
