@@ -17,7 +17,7 @@
 						</Action>
 					</ChildrenList>
 				</Event>
-				<Event Name="KidKwei_Licks" ID="{7A8D6F42-B0FC-4666-BDD2-B50F80A4EAEA}">
+				<Event Name="KidKwei_Licks_square" ID="{7A8D6F42-B0FC-4666-BDD2-B50F80A4EAEA}">
 					<ChildrenList>
 						<Action Name="" ID="{920818F9-1C77-4BFD-80AF-E0F17B1C8E23}" ShortID="352701484">
 							<PropertyList>
@@ -25,7 +25,21 @@
 							</PropertyList>
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="Kid Kwei Licks" ID="{4E6760A7-4DAD-4BB7-8646-8368958BBF7E}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+									<ObjectRef Name="Kid Kwei Licks_square" ID="{4E6760A7-4DAD-4BB7-8646-8368958BBF7E}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="KidKwei_Licks_triangle" ID="{EA75B350-FD3F-4EB1-B379-050BB9685855}">
+					<ChildrenList>
+						<Action Name="" ID="{0BC537C4-0E46-45CA-8B10-7AB12F9692E6}" ShortID="489740801">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Kid Kwei Licks_triangle" ID="{CACA2989-685C-4E81-AEDA-063A4A8E33F1}" WorkUnitID="{F2DC8960-FECD-4E2A-B8E6-1D3365203C7B}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

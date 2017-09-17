@@ -21,7 +21,8 @@
 			<ShortName>Kid_Kwei</ShortName>
 			<Path>Kid_Kwei.bnk</Path>
 			<IncludedEvents>
-				<Event Id="4116006508" Name="KidKwei_Licks" ObjectPath="\Events\Default Work Unit\KidKwei_Licks"/>
+				<Event Id="1579436198" Name="KidKwei_Licks_square" ObjectPath="\Events\Default Work Unit\KidKwei_Licks_square"/>
+				<Event Id="36378963" Name="KidKwei_Licks_triangle" ObjectPath="\Events\Default Work Unit\KidKwei_Licks_triangle"/>
 				<Event Id="4273272447" Name="KidKwei_MainPlaylist" ObjectPath="\Events\Default Work Unit\KidKwei_MainPlaylist"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
@@ -36,6 +37,10 @@
 				<File Id="176509213" Language="SFX">
 					<ShortName>AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01.wav</ShortName>
 					<Path>SFX\AC - Kid Kwei - v01 - Solos, tpt fall (C#) 230 bpm#01_9452F465.wem</Path>
+				</File>
+				<File Id="212277767" Language="SFX">
+					<ShortName>ROS M Lick tpt fallLong chord v1.wav</ShortName>
+					<Path>SFX\ROS M Lick tpt fallLong chord v1_9452F465.wem</Path>
 				</File>
 				<File Id="278351340" Language="SFX">
 					<ShortName>AC - Kid Kwei - v01 - Ending Head, no tpt (m. 36-52) 230 bpm#01.wav</ShortName>
@@ -52,6 +57,22 @@
 				<File Id="434547669" Language="SFX">
 					<ShortName>AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01.wav</ShortName>
 					<Path>SFX\AC - Kid Kwei - v01 - Solos, tpt fall (C) 230 bpm#01_9452F465.wem</Path>
+				</File>
+				<File Id="437498875" Language="SFX">
+					<ShortName>ROS M Lick tpt growl chord v1.wav</ShortName>
+					<Path>SFX\ROS M Lick tpt growl chord v1_9452F465.wem</Path>
+				</File>
+				<File Id="470977958" Language="SFX">
+					<ShortName>ROS M Lick tpt shake chord v1.wav</ShortName>
+					<Path>SFX\ROS M Lick tpt shake chord v1_9452F465.wem</Path>
+				</File>
+				<File Id="488518175" Language="SFX">
+					<ShortName>ROS M Lick tpt dooDat chord v1.wav</ShortName>
+					<Path>SFX\ROS M Lick tpt dooDat chord v1_9452F465.wem</Path>
+				</File>
+				<File Id="571518907" Language="SFX">
+					<ShortName>ROS M Lick tpt fpCresc chord v1.wav</ShortName>
+					<Path>SFX\ROS M Lick tpt fpCresc chord v1_9452F465.wem</Path>
 				</File>
 				<File Id="633665429" Language="SFX">
 					<ShortName>AC - Kid Kwei - v01 - Solos, pno stm (m. 21-36) 230 bpm#01.wav</ShortName>
@@ -88,6 +109,10 @@
 				<File Id="1006769402" Language="SFX">
 					<ShortName>AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01.wav</ShortName>
 					<Path>SFX\AC - Kid Kwei - v01 - Solos, tpt fall (Bb) 230 bpm#01_9452F465.wem</Path>
+				</File>
+				<File Id="1069860400" Language="SFX">
+					<ShortName>ROS M Lick tpt fallShort chord v1.wav</ShortName>
+					<Path>SFX\ROS M Lick tpt fallShort chord v1_9452F465.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 		</SoundBank>
